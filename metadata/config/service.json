@@ -1,7 +1,7 @@
 {
   "_id": "service",
   "_type": "config.service",
-  "name": "Service name goes here",
+  "name": "Form TE7: Application to file a statement out of time / extension of time (parking)",
   "phase": "alpha",
   "phaseText": "Service phase text goes here"
 }
